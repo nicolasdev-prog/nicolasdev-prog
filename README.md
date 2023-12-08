@@ -1,13 +1,12 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/nicolasdev-prog/nicolasdev-prog/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">Sou um entusiasta de tecnologia apaixonado por desvendar os mistérios do mundo digital. Do desenvolvimento de sistemas aos desafios do dia a dia da infraestrutura de TI, estou sempre pronto para aprender e aplicar novas habilidades. Com experiência tanto no lado do servidor quanto no lado do usuário, busco criar soluções práticas e eficientes. Estou animado para explorar as várias facetas da tecnologia e contribuir para inovações que impactam positivamente nosso mundo digital! 🚀💻</p>&nbsp;
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&section=header&text=Jair%20Victor&fontColor=#fff&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%89+Jair+Victor+!;SOU+ESTUDANTE+JAVA❤️)](https://git.io/typing-svg)
  
+
+<p align="center">Sou um entusiasta de tecnologia apaixonado por desvendar os mistérios do mundo digital. Do desenvolvimento de sistemas aos desafios do dia a dia da infraestrutura de TI, estou sempre pronto para aprender e aplicar novas habilidades. Com experiência tanto no lado do servidor quanto no lado do usuário, busco criar soluções práticas e eficientes. Estou animado para explorar as várias facetas da tecnologia e contribuir para inovações que impactam positivamente nosso mundo digital! 🚀💻</p>&nbsp;
+
+
  &nbsp;
  &nbsp;
 
