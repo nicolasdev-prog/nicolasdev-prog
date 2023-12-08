@@ -1,5 +1,4 @@
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&section=header&text=Jair%20Victor&fontColor=#fff&fontAlignY=35"/>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Nicolas%20Assunção%20de%20Jesus&fontSize=90)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%89+Jair+Victor+!;SOU+ESTUDANTE+JAVA❤️)](https://git.io/typing-svg)
  
