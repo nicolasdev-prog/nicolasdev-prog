@@ -1,8 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=250&animation=twinkling&section=header&text=Nicolas%20Assunção&fontColor=white&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%89+Nicolas+Assunção!;)](https://git.io/typing-svg)
-
- 
 
 <p align="center">Sou um entusiasta de tecnologia apaixonado por desvendar os mistérios do mundo digital. Do desenvolvimento de sistemas aos desafios do dia a dia da infraestrutura de TI, estou sempre pronto para aprender e aplicar novas habilidades. Com experiência tanto no lado do servidor quanto no lado do usuário, busco criar soluções práticas e eficientes. Estou animado para explorar as várias facetas da tecnologia e contribuir para inovações que impactam positivamente nosso mundo digital! 🚀💻</p>&nbsp;
 
