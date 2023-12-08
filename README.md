@@ -1,6 +1,54 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&&&color=_hexcode : (#FFFFFF)&height=250&animation=twinkling&section=header&text=Nicolas%20Assunção&fontColor=#fff&fontAlignY=35"/>
+const {
+  // ...
+  text,
+  // ...
+  color = "auto", // Set the default color to "auto" or any specific color you prefer
+  fontColor, // Keep the fontColor parameter as is
+  // ...
+} = req.query;
+// ...
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%89+Nicolas+Assunção!;SOU+ESTUDANTE+JAVA❤️)](https://git.io/typing-svg)
+//- Color Verify --------------------------------------------------------------------------------------------------
+if (theme !== "none" && checkThemeColor(theme)) {
+  // theme has the highest priority
+  [color, fontColor, textBgColor] = generateThemeColor(theme);
+  descColor = textBgColor;
+} else {
+  if (color === "auto") [color, fontColor, textBgColor] = generateAutoColor(fontColor, customColorList);
+  else if (color === "gradient") [color, fontColor, textBgColor] = generateAutoGradient(fontColor, customColorList);
+  else if (color === "timeAuto" || color === "timeGradient")
+    [color, fontColor, textBgColor] = generateAutoByTime(color, fontColor);
+  else color = checkCustomColor(color);
+  descColor = fontColor;
+}
+// ...
+
+//- Drawing -------------------------------------------------------------------------------------------------------
+// 'waving' is an exception because it uses a special layout.
+if (ANIMATION_MODELS.includes(type)) {
+  // animation types
+  res.send(`
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="${height}" viewBox="0 0 854 ${height}">
+      ${styleScript}
+      ${svgContentScript}
+      ${textScript.replace(/Jair%20Victor/, "Nicolas%20Assunção")}
+      ${descScript}
+    </svg>
+  `);
+} else {
+  // static types
+  res.send(`
+    <svg width="854" height="${height}" viewBox="0 0 854 ${height}" xmlns="http://www.w3.org/2000/svg">
+      ${styleScript}
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 ${height}">
+        ${svgContentScript}
+      </svg>
+      ${textScript.replace(/Jair%20Victor/, "Nicolas%20Assunção")}
+      ${descScript}
+    </svg>
+  `);
+}
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%89+Nicolas+Assunção!;❤️)](https://git.io/typing-svg)
 
  
 
